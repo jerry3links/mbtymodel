@@ -1,0 +1,3 @@
+DATA_VER_CODE = "020000"
+
+RESULT_ROOT = "../../CFR-Result/"
